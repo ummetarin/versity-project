@@ -279,19 +279,19 @@
        </div>
         <p class="font-medium px-24 py-4 text-sm text-center text-white">In our restaurant, every team member is a valued and essential part of creating a memorable dining experience. Our chefs, with their culinary expertise, carefully curate a menu that blends flavors and techniques to satisfy diverse palates. The kitchen staff works seamlessly to ensure each dish meets the highest standards of quality.
 </p>   
-         <div class="flex pt-7 md:flex-row flex-col justify-center gap-24  mx-auto items-center">
+         <div class="flex pt-7 md:flex-row flex-col justify-center   mx-auto items-center">
      
      <div>
         <img class="w-[140px] h-[150px] rounded-md" src="https://i.ibb.co/DCQBR5G/426978220-1060218615269305-3988761960198985566-n.jpg" alt="">
-         <h1 class="text-sm text-center  py-2 text-pink-600">Umme Homaira</h1>
+         <h1 class="text-sm text-center   py-2 text-pink-600">Umme Homaira</h1>
       </div>
      <div>
-        <img class="w-[150px] h-[150px] rounded-md" src="https://i.ibb.co/sy7LNVX/pretty-barista-crossing-arms-107420-28840.jpg" alt="">
-        <h1 class="text-sm text-center  py-2 text-pink-600">Rabina Shek</h1>     
+        <img class="w-[150px] h-[150px] rounded-md" src="https://i.ibb.co/B3SbFTN/426405221-925351552577147-2142995165624557665-n.jpg" alt="">
+        <h1 class="text-sm text-center  py-2 text-pink-600">Trisha Datta</h1>     
       </div>
      <div>
-        <img class="w-[150px] h-[150px] rounded-md" src="https://i.ibb.co/FzPd5sS/waitress-showing-platter-of-meatballs-in-a-restaurant-takeaway-food-kitchen-behind-RWN732.jpg" alt="">
-        <h1 class="text-sm text-center  py-2 text-pink-600">Jacklin jeun</h1>
+        <img class="w-[150px] h-[150px] rounded-md" src="https://i.ibb.co/R3qvZCX/427800913-924708655666635-2468123278949781340-n.jpg" alt="">
+        <h1 class="text-sm text-center  py-2 text-pink-600">Sharmin Rifa</h1>
       </div>
      <div>
         <img class="w-[150px] h-[150px] rounded-md" src="https://i.ibb.co/k3B7Q1j/images.jpg" alt="">

@@ -21,7 +21,7 @@
                   <li><a href="http://localhost:3000/php/bestfood/index.php">Home</a></li>
                   <li><a href="http://localhost:3000/php/AboutUs/Aboutus.php">About Us</a></li>
                   <li>
-                    <a href="http://127.0.0.1:5500/Res.html">Register</a>
+                    <a href="http://localhost:3000/php/Loginpart/Resister.php">Register</a>
                   
                   </li>
                   <li><a href="http://localhost:3000/php/MenuItem/AMenu.php">Menu</a></li>
@@ -36,14 +36,14 @@
                 <li><a href="http://localhost:3000/php/bestfood/index.php">Home</a></li>
               <li><a href="http://localhost:3000/php/AboutUs/Aboutus.php">About Us</a></li>
                 <li>
-                  <a href="http://127.0.0.1:5500/Res.html">Register</a>
+                  <a href="http://localhost:3000/php/Loginpart/Resister.php">Register</a>
                 </li>
                 <li><a href="http://localhost:3000/php/MenuItem/AMenu.php">Menu</a></li>
                 <li><a href="http://localhost:3000/php/Dashborad/Dashboard.php">Dashboard</a></li>
               </ul>
             </div>
             <div class="navbar-end">
-              <a href="http://127.0.0.1:5500/Login.html" class="btn bg-red-500 text-white font-bold">Login </a>
+              <a href="http://localhost:3000/php/Loginpart/Login.php" class="btn bg-red-500 text-white font-bold">Login </a>
             </div>
           </div>
     </div>
