@@ -282,7 +282,7 @@
          <div class="flex pt-7 md:flex-row flex-col justify-center   mx-auto items-center">
      
      <div>
-        <img class="w-[140px] h-[150px] rounded-md" src="https://i.ibb.co/DCQBR5G/426978220-1060218615269305-3988761960198985566-n.jpg" alt="">
+        <img class="w-[200px] h-[200px] rounded-md" src="https://i.ibb.co/DCQBR5G/426978220-1060218615269305-3988761960198985566-n.jpg" alt="">
          <h1 class="text-sm text-center   py-2 text-pink-600">Umme Homaira</h1>
       </div>
      <div>

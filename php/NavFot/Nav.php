@@ -10,40 +10,39 @@
 </head>
 <body>
 
-<div>
-        <div class="navbar  shadow-md">
-            <div class="navbar-start">
-              <div class="dropdown">
-                <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
-                  <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
-                </div>
-                <ul tabindex="0" class="menu font-bold menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
-                  <li><a href="http://localhost:3000/php/bestfood/index.php">Home</a></li>
-                  <li><a href="http://localhost:3000/php/AboutUs/Aboutus.php">About Us</a></li>
-                  <li>
-                    <a href="http://localhost:3000/php/Loginpart/Resister.php">Register</a>
-                  
-                  </li>
-                  <li><a href="http://localhost:3000/php/MenuItem/AMenu.php">Menu</a></li>
-                  <li><a href="http://localhost:3000/php/Dashborad/Dashboard.php">Dashboard</a></li>
-                </ul>
-              </div>
-              <a class=" text-2xl font-bold text-pink-600">SCOOPY</a>
-              <img class="h-16" src="https://i.ibb.co/K94TZkj/ice-cream-vector-illustration-on-white-background-EF1-JBK-removebg-preview.png" alt="">
+<div class="navbar  shadow-md">
+    <div class="navbar-start">
+        <div class="dropdown">
+            <div tabindex="0" role="button" class="btn btn-ghost lg:hidden">
+                <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
             </div>
-            <div class="navbar-center font-bold text-pink-500 hidden lg:flex">
-              <ul class="menu menu-horizontal px-1">
+            <ul tabindex="0" class="menu font-bold menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
                 <li><a href="http://localhost:3000/php/bestfood/index.php">Home</a></li>
-              <li><a href="http://localhost:3000/php/AboutUs/Aboutus.php">About Us</a></li>
-                <li>
-                  <a href="http://localhost:3000/php/Loginpart/Resister.php">Register</a>
-                </li>
+                <li><a href="http://localhost:3000/php/AboutUs/Aboutus.php">About Us</a></li>
+                <li><a href="http://localhost:3000/php/Loginpart/Resister.php">Register</a></li>
                 <li><a href="http://localhost:3000/php/MenuItem/AMenu.php">Menu</a></li>
                 <li><a href="http://localhost:3000/php/Dashborad/Dashboard.php">Dashboard</a></li>
-              </ul>
-            </div>
-            <div class="navbar-end">
-              <a href="http://localhost:3000/php/Loginpart/Login.php" class="btn bg-red-500 text-white font-bold">Login </a>
-            </div>
-          </div>
+            </ul>
+        </div>
+        <a class="text-2xl font-bold text-pink-600">SCOOPY</a>
+        <img class="h-16" src="https://i.ibb.co/K94TZkj/ice-cream-vector-illustration-on-white-background-EF1-JBK-removebg-preview.png" alt="">
     </div>
+    <div class="navbar-center font-bold text-pink-500 hidden lg:flex">
+        <ul class="menu menu-horizontal px-1">
+            <li><a href="http://localhost:3000/php/bestfood/index.php">Home</a></li>
+            <li><a href="http://localhost:3000/php/AboutUs/Aboutus.php">About Us</a></li>
+            <li><a href="http://localhost:3000/php/Loginpart/Resister.php">Register</a></li>
+            <li><a href="http://localhost:3000/php/MenuItem/AMenu.php">Menu</a></li>
+            <li><a href="http://localhost:3000/php/Dashborad/Dashboard.php">Dashboard</a></li>
+        </ul>
+    </div>
+    <div class="navbar-end">
+        <!-- Change the href attribute to point to the logout script -->
+        <a href="http://localhost:3000/php/Loginpart/Login.php" class="btn bg-red-600 text-white font-bold">Login</a>
+        <!-- Change the href attribute to point to the logout script -->
+        <a href="http://localhost:3000/php/Loginpart/logout.php" class="btn bg-red-600 text-white font-bold">Logout</a>
+    </div>
+</div>
+
+</body>
+</html>
