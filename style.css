@@ -15,6 +15,10 @@
     }
 }
 
+.tex{
+  background-image: url(https://i.ibb.co/948XycP/gettyimages-159125130-640x640.jpg);
+  background-position: absolute;
+}
 .about{
     
     animation: fadeIn  2.8s ease-in-out;
@@ -283,4 +287,8 @@
     line-height: 1rem;
     color: rgba(156, 163, 175, 1);
   }
+
+  /* cat */
+
+  
   
