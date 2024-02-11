@@ -18,8 +18,8 @@
                   <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 6h16M4 12h8m-8 6h16" /></svg>
                 </div>
                 <ul tabindex="0" class="menu font-bold menu-sm dropdown-content mt-3 z-[1] p-2 shadow bg-base-100 rounded-box w-52">
-                  <li><a href="http://127.0.0.1:5500/index.html">Home</a></li>
-                  <li><a href="http://127.0.0.1:5500/Aboutus.html">About Us</a></li>
+                  <li><a href="http://localhost:3000/php/bestfood/index.php">Home</a></li>
+                  <li><a href="http://localhost:3000/php/AboutUs/Aboutus.php">About Us</a></li>
                   <li>
                     <a href="http://127.0.0.1:5500/Res.html">Register</a>
                   
@@ -33,8 +33,8 @@
             </div>
             <div class="navbar-center font-bold text-pink-500 hidden lg:flex">
               <ul class="menu menu-horizontal px-1">
-                <li><a href="http://127.0.0.1:5500/index.html">Home</a></li>
-              <li><a href="http://127.0.0.1:5500/Aboutus.html">About Us</a></li>
+                <li><a href="http://localhost:3000/php/bestfood/index.php">Home</a></li>
+              <li><a href="http://localhost:3000/php/AboutUs/Aboutus.php">About Us</a></li>
                 <li>
                   <a href="http://127.0.0.1:5500/Res.html">Register</a>
                 </li>
