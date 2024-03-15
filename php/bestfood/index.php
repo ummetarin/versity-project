@@ -134,7 +134,7 @@
           ?>
 
       
-           <div class="w-[350px] h-[360px] bg-base-100 shadow-lg ml-10">
+           <div class="w-[350px] h-[360px] bg-base-100 shadow-lg ml-8">
              <div class="flex flex-col items-center">
              <img class="w-[320px] rounded-md h-[280px] p-4 " src="<?= $cat_img ?>" alt="">
              </div>
@@ -274,7 +274,7 @@
 
       <div class="tex pb-24   ">
        <div class="flex flex-row justify-center items-center">
-        <h1 class="text-center text-3xl  font-bold py-3 text-pink-600 pt-12">Worker of Our SHOP</h1>
+        <h1 class="text-center text-3xl  font-bold py-3 text-pink-600 pt-12">Service Provided By</h1>
       
        </div>
         <p class="font-medium px-24 py-4 text-sm text-center text-white">In our restaurant, every team member is a valued and essential part of creating a memorable dining experience. Our chefs, with their culinary expertise, carefully curate a menu that blends flavors and techniques to satisfy diverse palates. The kitchen staff works seamlessly to ensure each dish meets the highest standards of quality.
@@ -282,20 +282,20 @@
          <div class="flex pt-7 md:flex-row flex-col justify-center   mx-auto items-center">
      
      <div>
-        <img class="w-[200px] h-[200px] rounded-md" src="https://i.ibb.co/DCQBR5G/426978220-1060218615269305-3988761960198985566-n.jpg" alt="">
-         <h1 class="text-sm text-center   py-2 text-pink-600">Umme Homaira</h1>
+        <img class="w-[150px] h-[200px] rounded-md" src="https://i.ibb.co/f15VRtK/426197674-897897521817700-239857659963960053-n.jpg" alt="">
+         <h1 class="text-sm text-center   font-medium py-2 text-pink-600">Umme Homaira</h1>
       </div>
      <div>
-        <img class="w-[150px] h-[150px] rounded-md" src="https://i.ibb.co/B3SbFTN/426405221-925351552577147-2142995165624557665-n.jpg" alt="">
-        <h1 class="text-sm text-center  py-2 text-pink-600">Trisha Datta</h1>     
+        <img class="w-[200px] h-[200px] rounded-md" src="https://i.ibb.co/XpnvsVN/426405221-925351552577147-2142995165624557665-n.jpg" alt="">
+        <h1 class="text-sm text-center font-medium  py-2 text-pink-600">Trisha Datta</h1>     
       </div>
      <div>
-        <img class="w-[150px] h-[150px] rounded-md" src="https://i.ibb.co/R3qvZCX/427800913-924708655666635-2468123278949781340-n.jpg" alt="">
-        <h1 class="text-sm text-center  py-2 text-pink-600">Sharmin Rifa</h1>
+        <img class="w-[200px] h-[200px] rounded-md" src="https://i.ibb.co/R3qvZCX/427800913-924708655666635-2468123278949781340-n.jpg" alt="">
+        <h1 class="text-sm text-center font-medium  py-2 text-pink-600">Sharmin Ripa</h1>
       </div>
      <div>
-        <img class="w-[150px] h-[150px] rounded-md" src="https://i.ibb.co/k3B7Q1j/images.jpg" alt="">
-        <h1 class="text-sm text-center  py-2 text-pink-600">Darbex Chu</h1>
+        <img class="w-[140px] h-[200px] rounded-md" src="https://i.ibb.co/gPZm8RR/427843998-1101143201126087-5060875982137674757-n-1.jpg" alt="">
+        <h1 class="text-sm text-center font-medium py-2 text-pink-600">Niharika Mallick</h1>
       </div>
    
 

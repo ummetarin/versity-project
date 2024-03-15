@@ -29,9 +29,9 @@
         
         <div class="flex md:flex-row flex-col justify-center mx-auto gap-12 py-12 items-center ">
         
-          <div class="font-bold w-[400px]">
-            <h1 class="text-2xl text-pink-400 py-2" >Flavour Fusion</h1>
-            <p>"Scoops & Swirls" is a delightful ice cream shop located on the corner of Main Street and Cherry Avenue. With its charming storefront and vibrant decor, it's a favorite spot for locals and tourists alike. The shop offers a wide range of delectable flavors, from classic vanilla to unique creations like caramel cookie crunch. Don't miss the chance to treat your taste buds at this sweet haven!</p>
+          <div class=" w-[400px]">
+            <h1 class="text-2xl text-pink-400 py-2 font-bold" >Flavour Fusion</h1>
+            <p class="font-medium">"Scoops & Swirls" is a delightful ice cream shop located on the corner of Main Street and Cherry Avenue. With its charming storefront and vibrant decor, it's a favorite spot for locals and tourists alike. The shop offers a wide range of delectable flavors, from classic vanilla to unique creations like caramel cookie crunch. Don't miss the chance to treat your taste buds at this sweet haven!</p>
             <p class="text-rose-600 py-3">Chittagong,Oxygen,Banghladesh</p>
             <div class="py-4">
               <button class="bg-pink-500 text-white btn">View shop</button>
@@ -61,7 +61,7 @@
     </div>
     <div class=" w-[500px] ml-4">
       <h1 class="text-2xl text-pink-400 font-bold" >There also available Roller Icecream</h1>
-      <p class="font-medium">This frozen dessert originated in Thailand under the name "Thai rolled ice cream" or "stir-fried ice cream" (I-Tim-Pad). By 2015, the United States picked up on the trend and the dessert is now known there as "rolled ice cream" or "ice cream rolls".</p>
+      <p class="font-medium mt-5">This frozen dessert originated in Thailand under the name "Thai rolled ice cream" or "stir-fried ice cream" (I-Tim-Pad). By 2015, the United States picked up on the trend and the dessert is now known there as "rolled ice cream" or "ice cream rolls".</p>
       <div class="py-4">
         <button class="text-pink-500   btn">View shop</button>
       </div>

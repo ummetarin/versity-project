@@ -31,13 +31,14 @@ if (!$query) {
 </head>
 <body>
     <!-- navbar -->
+
     <?php
     include '/xampp/htdocs/Ice/php/NavFot/Nav.php';
 
     ?>
     <!-- banner -->
     <div>
-        <img class="about h-[300px] w-full" src="https://i.ibb.co/T4FwYng/360-F-601191305-o7-Rw-Xk-QRHVo-Kug5ap0-Yhx-PZYpm-Bvx9-VV.jpg" alt="">
+        <img class="about h-[450px] w-full" src="https://i.ibb.co/txYJ2L0/shop-menu.jpg" alt="">
       </div>
 
       <!-- menus -->
@@ -82,7 +83,7 @@ if (!$query) {
 
 
 <div class="">
-<div class="max-w-sm h-[520px] bg-white  rounded-lg shadow-lg">
+<div class="max-w-sm h-[500px] bg-white  rounded-lg shadow-lg">
   <div class="justify-center flex rounded-md  ">
   <a href="#">
         <img class="rounded-t-lg w-[320px] shadow-md h-[250px] p-4" src="<?php echo $app_im; ?>" alt="" />
@@ -90,11 +91,11 @@ if (!$query) {
   </div>
     <div class="p-5 ml-3">
         <a href="#">
-            <h5 class="mb-2 text-3xl  text-orange-950 font-bold tracking-tight  dark:text-white"><?php echo $app_name; ?></h5>
+            <h5 class="mb-2 text-2xl  text-orange-950 font-bold tracking-tight  dark:text-white"><?php echo $app_name; ?></h5>
         </a>
 
         
-        <p class="mb-3 font-medium   text-xl   text-amber-900"><?php echo $app_ti; ?></p>
+        <p class="mb-3 font-medium   text-sm   text-amber-900"><?php echo $app_ti; ?></p>
         <p class="mb-3 font-medium text-xl "><?php echo $app_ac; ?></p>
        
         <div class="flex flex-row items-center pb-2">

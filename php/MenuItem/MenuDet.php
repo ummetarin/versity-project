@@ -80,6 +80,7 @@ if(isset($_GET["app_id"])){
   
    <h1 class="text-xl font-bold ">$<?php echo $app_pr ?></h1>
    </div>
+   
   
    
 

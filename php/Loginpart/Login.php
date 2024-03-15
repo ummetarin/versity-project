@@ -51,7 +51,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                       </div>";
             } else {
                 // Invalid email or password
-                echo "<div class='alert alert-danger'>
+                echo "<div class='alert alert-warning font-medium'>
                         <h1 class='text-black'>Invalid email or password</h1>
                       </div>";
             }
