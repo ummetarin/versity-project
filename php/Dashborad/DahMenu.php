@@ -98,15 +98,15 @@ while ($data = mysqli_fetch_assoc($query)) {
             <td class=\"px-6 py-4\">$$it_pr</td>
             <td class=\"px-6 py-4\">$it_date</td>
             <td class=\"px-6 py-4\">
-                <button class=\"btn bg-orange-500 text-white\" onclick=\"disableButton($it_id)\">
-                    <a href=\"approve_item.php?it_id=$it_id&approve=1\" class=\"font-medium dark:text-blue-500 hover:underline\">Approved</a>
+                <button class=\"w-[90px] h-[40px] rounded-lg bg-orange-500 text-white\" onclick=\"disableButton($it_id)\">
+                    <a href=\"approve_item.php?it_id=$it_id&approve=1\" class=\"font-medium  dark:text-blue-500 hover:underline\">Approved</a>
                 </button>
             </td>
             <td class=\"px-6 py-4\">
-                <button class=\"btn bg-pink-300\"><a href=\"DashEdit.php?it_id=$it_id\" class=\"font-medium dark:text-blue-500 hover:underline\">Edit</a></button>
+                <button class=\"w-[90px] h-[40px] rounded-lg  bg-blue-600 text-white\"><a href=\"DashEdit.php?it_id=$it_id\" class=\"font-medium dark:text-blue-500 hover:underline\">Edit</a></button>
             </td>
             <td class=\"px-6 py-4\">
-                <button class=\"btn bg-red-600 text-white\"><a href=\"../Delete/Dashdlt.php?it_id=$it_id\" class=\"font-medium dark:text-blue-500 hover:underline\">Delete</a></button>
+                <button class=\"w-[90px] h-[40px] rounded-lg bg-red-600 text-white\"><a href=\"../Delete/Dashdlt.php?it_id=$it_id\" class=\"font-medium dark:text-blue-500 hover:underline\">Delete</a></button>
             </td>
         </tr>";
 }

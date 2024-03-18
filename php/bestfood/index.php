@@ -12,7 +12,6 @@
     <!-- navbar -->
     <?php
     include '/xampp/htdocs/Ice/php/NavFot/Nav.php';
-
     ?>
     <!-- banner -->
 
@@ -93,7 +92,7 @@
           <img class="w-[500px] h-[340px]" src="https://i.ibb.co/54vRV7Q/desktop-wallpaper-the-fresh-dessert-yummy-ice-cream.jpg" alt="" class="max-w-sm rounded-lg shadow-2xl" />
           <div class="w-[400px] ml-10  ">
             <h1 class="text-2xl text-pink-700 font-bold">Our Shop Benefits</h1>
-            <p class="py-6  text-purple-700">Our shop offers high-quality products, competitive prices, and excellent customer service. With a wide selection and frequent promotions, we strive to meet our customers' diverse needs. Additionally, we provide a loyalty program to reward our regular patrons, ensuring a rewarding shopping experience for all</p>
+            <p class="py-6  text-black">Our shop offers high-quality products, competitive prices, and excellent customer service. With a wide selection and frequent promotions, we strive to meet our customers' diverse needs. Additionally, we provide a loyalty program to reward our regular patrons, ensuring a rewarding shopping experience for all</p>
             <button class="btn bg-pink-500 text-white">Visit Shop</button>
           </div>
         </div>

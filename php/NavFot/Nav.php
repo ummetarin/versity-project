@@ -21,13 +21,27 @@
                 <li><a href="http://localhost:3000/php/AboutUs/Aboutus.php">About Us</a></li>
                 <li><a href="http://localhost:3000/php/Loginpart/Resister.php">Register</a></li>
                 <li><a href="http://localhost:3000/php/MenuItem/AMenu.php">Menu</a></li>
-                <li><a href="http://localhost:3000/php/Dashborad/Dashboard.php">Dashboard</a></li>
+                <?php
+$userEmail = isset($_POST["us_em"]) ? $_POST["us_em"] : "";
+
+if ($userEmail == "x@gmail.com") {
+   
+?>
+  
+  <li class="text-[18px]"><a href="http://localhost:3000/php/Dashborad/Dashboard.php">Dashboard</a></li>
+<?php
+} else {
+?>
+ <li class="hidden"><a href="http://localhost:3000/php/Dashborad/Dashboard.php">Dashboard</a></li>
+<?php
+}
+?>
             </ul>
         </div>
-        <a class="text-2xl font-bold t text-amber-950">SCOOPY</a>
+        <a class="text-2xl font-bold  text-orange-950">SCOOPY</a>
         <img class="h-16" src="https://i.ibb.co/K94TZkj/ice-cream-vector-illustration-on-white-background-EF1-JBK-removebg-preview.png" alt="">
     </div>
-    <div class="navbar-center font-bold text-orange-800 hidden lg:flex">
+    <div class="navbar-center font-bold  hidden lg:flex">
         <ul class="menu menu-horizontal px-1">
             <li class="text-[18px]"><a href="http://localhost:3000/php/bestfood/index.php">Home</a></li>
             <li  class="text-[18px]"><a href="http://localhost:3000/php/AboutUs/Aboutus.php">About Us</a></li>
@@ -53,7 +67,7 @@ if ($userEmail == "x@gmail.com") {
         </ul>
     </div>
     <div class="navbar-end">
-        <a href="http://localhost:3000/php/Loginpart/Login.php" class="w-[90px] text-sm h-[50px] rounded-lg items-center text-center pt-3  hover:bg-white hover:text-black bg-red-600 text-white font-bold">Login</a>
+        <a href="http://localhost:3000/php/Loginpart/Login.php" class="w-[90px] text-sm h-[50px] rounded-lg items-center text-center pt-3  hover:bg-white hover:text-black bg-pink-600 text-white font-bold">Login</a>
     </div>
 </div>
          

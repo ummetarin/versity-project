@@ -15,21 +15,21 @@
 <div>
    
   <div class="py-1">
-  <button class="btn"><a href="http://localhost:3000/php/bestfood/index.php">Home</a></button>
+  <button class="w-[120px] rounded-lg h-[40px] bg-white text-black font-medium"><a href="http://localhost:3000/php/bestfood/index.php">Home</a></button>
   </div>
    </div> 
    <div>
    <div class="py-1">
-    <a href="http://localhost:3000/php/Dashborad/DasAdd.php"><button class="btn">Add Item</button> </a>
+    <a href="http://localhost:3000/php/Dashborad/DasAdd.php"><button class="w-[120px] rounded-lg h-[40px] bg-white text-black font-medium">Add Item</button> </a>
    
    </div>
    <div class="py-1">
  
-   <a href="http://localhost:3000/php/Dashborad/DahMenu.php">  <button class="btn ">All Menu</button></a>
+   <a href="http://localhost:3000/php/Dashborad/DahMenu.php">  <button class="w-[120px] rounded-lg h-[40px] bg-white text-black font-medium">All Menu</button></a>
    </div>
    <div class="py-1">
  
-   <a href="http://localhost:3000/php/Order/OrderItem.php">  <button class="btn ">Order Items</button></a>
+   <a href="http://localhost:3000/php/Order/OrderItem.php">  <button class="w-[120px] rounded-lg h-[40px] bg-white text-black font-medium">Order Items</button></a>
    </div>
    
     
